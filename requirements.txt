@@ -1,0 +1,6 @@
+sdv
+sdmetrics
+scikit-learn
+pandas
+numpy
+matplotlib

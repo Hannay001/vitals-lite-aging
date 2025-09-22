@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: Vitals-Lite-Aging
+abstract: >
+  A small, synthetic vitals dataset (2,500 rows) with a 10-minute Colab notebook
+  for quick, reproducible bio/health ML demos. Includes SDMetrics quality report.
+type: software
+version: 0.1.0
+date-released: 2025-09-21
+url: https://github.com/Hannay001/vitals-lite-aging
+repository-code: https://github.com/Hannay001/vitals-lite-aging
+license: MIT
+keywords:
+  - synthetic data
+  - health
+  - ML
+  - longevity
+  - tutorial
+authors:
+  - family-names: Sachdeva
+    given-names: Himanshu
+preferred-citation:
+  type: dataset
+  title: Vitals-Lite-Aging (v0.1.0)
+  authors:
+    - family-names: Sachdeva
+      given-names: Himanshu
+  year: 2025
+  version: 0.1.0
+  url: https://github.com/Hannay001/vitals-lite-aging
+  license: CC-BY-4.0
+  notes: "Code under MIT; data/docs under CC BY 4.0."
+identifiers:
+  - type: url
+    value: https://github.com/Hannay001/vitals-lite-aging

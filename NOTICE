@@ -1,0 +1,11 @@
+NOTICE
+
+This repository contains two licensing regimes:
+- Code: MIT License (see LICENSE)
+- Dataset + Documentation: CC BY 4.0 (see LICENSE-DATA)
+
+Preferred attribution for data/docs (TASL):
+“Vitals-Lite-Aging (v0.1.0)” by Hannay001, source:
+https://github.com/Hannay001/vitals-lite-aging, licensed under CC BY 4.0
+license: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+
